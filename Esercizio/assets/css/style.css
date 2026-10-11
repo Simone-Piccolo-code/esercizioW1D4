@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+}
+
+.firstbar {
+    background-color: #222f3e;
+    height: 60px;
+}
+
+.logo {
+    width: 115px;
+    padding-top: 8px;
+    padding-left: 32px;
+}
+
+nav {
+    background-color: #364759;
+    color: white;
+    padding: 8px;
+}
+
+nav span {
+    margin: 15px;
+}
+
+main {
+    padding: 30px;
+    background-color: #eaeded
+}
+
+.giftcardsbar {
+    background-color: #f56600;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.giftcardsbar p {
+    margin: 0;
+}
+
+.giftguide {
+    margin-top: 30px;
+    background-image: url(/assets/img/bg-image.png);
+    padding: 48px 0px;
+    text-align: center;
+    color: white;
+}
+
+.section1 {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.findgift {
+    text-align: left;
+    padding: 20px;
+    padding-bottom: 5px;
+    color: black;
+    font-size: 20px;
+}
+
+.findgift span {
+    margin: 10px;
+}
+
+.imgsection1 {
+    object-fit: cover;
+    width: 300px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+.section2 {
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.section2 figure {
+    margin: 0;
+}
+
+.section2 figure figcaption {
+    padding: 5px;
+}
+
+.section2 figure img {
+    object-fit: cover;
+    margin: 0;
+    height: 250px;
+    width: 100%;
+}
+
+.section2 figure figcaption span {
+    margin-right: 20px;
+}
+
+.section3 {
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.section3 figure {
+    margin: 0;
+}
+
+.section3 figure figcaption {
+    padding: 5px;
+}
+
+.section3 figure img {
+    object-fit: cover;
+    object-position: center bottom;
+    margin: 0;
+    height: 250px;
+    width: 100%;
+}
+
+.section3 figure figcaption span {
+    margin-right: 20px;
+}
+
+.back {
+    background-color: #364759;
+    text-align: center;
+    padding: 15px;
+}
+
+.back a {
+    color: white;
+    font-size: 20px;
+}
+
+.end {
+    background-color: #222f3e;
+    text-align: center;
+}
+
+.end img {
+    width: 200px;
+    padding: 70px;
+}
